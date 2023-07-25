@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#VardeSiddharthAssets/Scenes/MainMenu.unity
+    guid: 649deaca9a4c01c42a4e5030b0258685
+  - enabled: 1
+    path: Assets/#VardeSiddharthAssets/Scenes/GamePlay.unity
+    guid: b3310a4e2bbf6cf4ba805e3167fcc7f9
+  - enabled: 1
+    path: Assets/#VardeSiddharthAssets/Scenes/PauseMenu.unity
+    guid: 2d3846e9a7ebb44498e989701d71a842
+  m_configObjects: {}
